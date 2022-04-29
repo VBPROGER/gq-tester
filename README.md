@@ -16,3 +16,10 @@
 4. If `c++` is not installed, use this command: `sudo apt install c++`.
 5. Type this: `c++ ./gq-tester.cpp`.
 6. And then this: `./a.out`.
+# How to download the precompiled binary?
+1. Go to [this](https://github.com/VBPROGER/gq-tester/releases/tag/main) link (click the blue text).
+2. Find the latest release.
+3. Click the "`gq-tester`" text.
+4. File will start downloading.
+5. When file is downloaded, go to step __**6**__.
+6. Open the downloaded file, and done!
