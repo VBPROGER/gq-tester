@@ -14,5 +14,5 @@
 2. To compile the app, go to the "`app`" folder.
 3. Open terminal in that folder (**linux only**).
 4. If `c++` is not installed, use this command: `sudo apt install c++`.
-5. Type this: `c++ `.
+5. Type this: `c++ ./gq-tester.cpp`.
 6. And then this: `./a.out`.
