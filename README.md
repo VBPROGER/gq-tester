@@ -26,5 +26,7 @@
 ## What is default value for string?
 The default value is "`MyValue123`".
 It can be changed before compiling or using this[^gq] tool.
+## What is '`gq`'?
+Click (this)[https://github.com/VBPROGER/gq-tester/blob/main/README.md#user-content-fn-gq-3b35f8a01ffb8f6b8632186f7c14268e] link or click here 👉 [^gq] 👈.
 # Footnotes
 [^gq]: GameConqueror.
